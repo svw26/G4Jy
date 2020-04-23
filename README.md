@@ -2,7 +2,7 @@
 
 This is a repository for things related to the GLEAM 4-Jy Sample: https://arxiv.org/abs/1810.01226.
 
-This sample is a collation of the brightest radio-sources across the southern sky (Dec. < 30 deg), which have an integrated flux-density > 4 Jy at 151 MHz (as measured in the GLEAM extragalactic catalogue, see https://arxiv.org/abs/1610.08318). The majority of these sources are active galactic nuclei (AGN) with powerful radio-jets.
+This sample is a collation of the brightest radio-sources across the southern sky (Dec. < 30 deg), which have an integrated flux-density > 4 Jy at 151 MHz (as measured in the GLEAM extragalactic catalogue, see https://arxiv.org/abs/1610.08318). The vast majority of these sources are active galactic nuclei (AGN) with powerful radio-jets, although the sample is also known to contain two nearby, star-forming galaxies, a cluster relic, a halo, and the Flame Nebula.
 
 Once the paper is accepted, I will provide:
 * A link to the catalogue
