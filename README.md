@@ -39,7 +39,7 @@ python basic_G4Jy_download.py --input_source_list=demo_input_file.txt --search_r
 
 Overlays, and the component .fits images from which they are made, will then be downloaded to the specified output-directory. Note that the demo input-file will download images for *three* GLEAM components, which in this case correspond to *two* G4Jy sources. You can expect this to take up 110 MB of space, whilst the images associated with 200 sources would require ~7.5 GB of space. 
 
-For your ease (given the required formatting), also provided within https://github.com/svw26/G4Jy/tree/master/server is an input file that lists all 1,960 GLEAM components associated with the G4Jy Sample. You may want to tweak the gleam_4jy_client.py script (downloaded as part of step '3') if you would like to obtain overlays/images for the 1,863 G4Jy sources that these components correspond to. This is because the mid-infrared images from AllWISE are the largest files (each 27.4 MB in size), so you could avoid these being downloaded by default. If all else fails, get in touch!
+For your ease (given the required formatting), also provided within https://github.com/svw26/G4Jy/tree/master/server is an input file that lists all 1,960 GLEAM components associated with the G4Jy Sample. You may want to tweak the gleam_4jy_client.py script (downloaded as part of step '3') if you would like to obtain overlays/images for the 1,863 G4Jy sources that these components correspond to. This is because the mid-infrared images from AllWISE are the largest files (each 27.4 MB in size), so you could avoid these being downloaded by default. If you are having problems, please do get in touch!
 
 
 ## Seminars/colloquia
