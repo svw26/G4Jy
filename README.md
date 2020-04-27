@@ -13,8 +13,7 @@ Stay tuned.
 
 ## The G4Jy Sample Server
 
-A server for distributing the overlays, and component cutouts, for the G4Jy Sample:
-
+A server for distributing the overlays, and component cutouts, for the G4Jy Sample: \
 http://mwa-web.icrar.org/gleam_4jy/q/form
 
 The above interface is good for exploration of the sample, but users wishing to download images for multiple sources may wish to do this through a Python script. Please do the following.
