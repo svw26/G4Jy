@@ -1,22 +1,24 @@
 # G4Jy
 
-This is a repository for things related to the GLEAM 4-Jy Sample: https://arxiv.org/abs/1810.01226.
+This is a repository for things related to the GLEAM 4-Jy (G4Jy) Sample.
 
 This sample is a collation of the brightest radio-sources across the southern sky (Dec. < 30 deg), which have an integrated flux-density > 4 Jy at 151 MHz (as measured in the GLEAM extragalactic catalogue, see https://arxiv.org/abs/1610.08318). The vast majority of these sources are active galactic nuclei (AGN) with powerful radio-jets, although the sample is also known to contain two nearby, star-forming galaxies, a cluster relic, a halo, and the Flame Nebula.
 
-Once the paper is accepted, I will provide:
-* A link to the catalogue
-* A link to a server, which will distribute cutouts and overlays created for this sample
-* A python script to aid the download of cutouts/overlays from the server
+* For an overview of the sample, see https://arxiv.org/abs/1810.01226
+* Paper I details how the sample and catalogue were constructed -- https://arxiv.org/abs/tbc1
+* Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/tbc2
 
-Stay tuned.
+A copy of the G4Jy catalogue will be submitted to VizieR but, in the meantime, you can find a copy here: \
+https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits
+
+
 
 ## The G4Jy Sample Server
 
 A server for distributing the overlays, and component cutouts, for the G4Jy Sample: \
 http://mwa-web.icrar.org/gleam_4jy/q/form
 
-The above interface is good for exploration of the sample, but users wishing to download images for multiple sources may wish to do this through a Python script. Please do the following.
+The above interface is good for exploration of the sample, but users wishing to download images for multiple sources may wish to do this through a Python script. In which case, please do the following.
 
 1. ```cd``` into your chosen working directory
 2. Type ```git init```
