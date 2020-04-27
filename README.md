@@ -19,19 +19,22 @@ http://mwa-web.icrar.org/gleam_4jy/q/form
 The above interface is good for exploration of the sample, but users wishing to download images for multiple sources may wish to do this through a Python script. Please do the following.
 
 1. ```cd``` into your chosen working directory
-2. [Need to attached Python script? Is it not pulled at step 4?]
-3. Type ```git init```
-4. Type ```git pull https://github.com/ICRAR/gleamvo-client```
+2. Type ```git init```
+3. Type ```git pull https://github.com/ICRAR/gleamvo-client```
+4. Download the Python script:
+```
+wget https://raw.githubusercontent.com/svw/G4Jy/master/server/basic_G4Jy_download.py
+```
 5. Download the demo input-file: 
 ```
 wget https://raw.githubusercontent.com/svw/G4Jy/master/server/demo_input_file.txt
 ```
-6. run the Python script like so:
+6. Run the Python script like so, where the search radius is in units of arcmin:
 ```
 python basic_G4Jy_download.py --input_source_list=demo_input_file.txt --search_radius=1.0 --output_dir=demo_downloads
 ```
 
-Overlays, and the component .fits images from which they are made, will then be downloaded to the specified output-directory. Note that the demo input-file will download images for three GLEAM components, which in this case correspond to two G4Jy sources. You can expect this to take up ~110 MB of space, whilst the images associated with 200 sources would require ~7.5 GB of space. You may want to tweak the Python script if you really want to download the images for all 1,863 sources belonging to the G4Jy Sample.  
+Overlays, and the component .fits images from which they are made, will then be downloaded to the specified output-directory. Note that the demo input-file will download images for *three* GLEAM components, which in this case correspond to *two* G4Jy sources. You can expect this to take up ~110 MB of space, whilst the images associated with 200 sources would require ~7.5 GB of space. You may want to tweak the Python script if you really would like to download the images for all 1,863 sources belonging to the G4Jy Sample.  
  
 
 
