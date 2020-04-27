@@ -19,7 +19,7 @@ https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits
 A server for distributing the overlays, and component cutouts, for the G4Jy Sample can be found here: \
 http://mwa-web.icrar.org/gleam_4jy/q/form
 
-The above interface is good for exploration of the sample, but users wishing to download images for multiple sources may prefer to do this through a Python script. In which case, please do the following.
+The above interface is good for exploring the sample, but users wishing to download images for multiple sources may prefer to do this through a Python script. In which case, please do the following.
 
 1. ```cd``` into your chosen working directory
 2. Type ```git init```
@@ -39,12 +39,12 @@ python basic_G4Jy_download.py --input_source_list=demo_input_file.txt --search_r
 
 Overlays, and the component .fits images from which they are made, will then be downloaded to the specified output-directory. Note that the demo input-file will download images for *three* GLEAM components, which in this case correspond to *two* G4Jy sources. You can expect this to take up 110 MB of space, whilst the images associated with 200 sources would require ~7.5 GB of space. 
 
-For your ease (given the required formatting), also provided within https://github.com/svw26/G4Jy/tree/master/server is an input file that lists all 1,960 GLEAM components associated with the G4Jy Sample. You may want to tweak the gleam_4jy_client.py script (downloaded as part of the ```git pull`` step) if you really would like to obtain overlays/images for all 1,863 G4Jy sources that these components correspond to. This is because the mid-infrared images from AllWISE are the largest files, so you could avoid these being downloaded by default. If all else fails, get in touch!
+For your ease (given the required formatting), also provided within https://github.com/svw26/G4Jy/tree/master/server is an input file that lists all 1,960 GLEAM components associated with the G4Jy Sample. You may want to tweak the gleam_4jy_client.py script (downloaded as part of step '3') if you would like to obtain overlays/images for the 1,863 G4Jy sources that these components correspond to. This is because the mid-infrared images from AllWISE are the largest files (each 27.4 MB in size), so you could avoid these being downloaded by default. If all else fails, get in touch!
 
 
 ## Seminars/colloquia
 
-As an astrophysicist concerned about the climate crisis, I have both hosted and delivered numerous online talks, resulting in a reduced carbon footprint. Please email (sarahwhite.astro@gmail.com) if you would like me to give a talk on this work for your institution, either remotely or the next time I am in your part of the world. :earth_americas::earth_africa::earth_asia:
+As an astrophysicist concerned about the climate crisis, I have both hosted and delivered numerous online talks, resulting in a reduced carbon footprint. Please email (sarahwhite.astro@gmail.com) if you would like me to give a talk on the G4Jy Sample for your institution, either remotely or the next time I am in your part of the world. :earth_americas::earth_africa::earth_asia:
 
 Finally, feel free to use the conference poster made available here: \
 https://github.com/svw26/G4Jy/tree/master/poster/SarahWhite_G4Jy_portrait_poster.pdf
