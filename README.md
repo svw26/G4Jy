@@ -23,7 +23,9 @@ The above interface is good for exploration of the sample, but users wishing to 
 3. Type ```git init```
 4. Type ```git pull https://github.com/ICRAR/gleamvo-client```
 5. Download the demo input-file: 
-```wget https://raw.githubusercontent.com/svw/G4Jy/master/server/demo_input_file.txt```
+```
+wget https://raw.githubusercontent.com/svw/G4Jy/master/server/demo_input_file.txt
+```
 6. run the Python script like so:
 ```
 python basic_G4Jy_download.py --input_source_list=demo_input_file.txt --search_radius=1.0 --output_dir=demo_downloads
