@@ -1,0 +1,4 @@
+# G4Jy_name   G4Jy_component   ncmp_GLEAM   GLEAM_name             centroid_RAJ2000   centroid_DEJ2000                    
+  "G4Jy 7"    A                2            "GLEAM J000441+124907" 1.209512           12.812605         
+  "G4Jy 7"    B                2            "GLEAM J000456+124810" 1.209512           12.812605       
+  "G4Jy 8"    -                1            "GLEAM J000541+195006" 1.41976            19.839685 
