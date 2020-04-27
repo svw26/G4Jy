@@ -19,7 +19,7 @@ https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits
 A server for distributing the overlays, and component cutouts, for the G4Jy Sample can be found here: \
 http://mwa-web.icrar.org/gleam_4jy/q/form
 
-The above interface is good for exploring the sample, but users wishing to download images for multiple sources may prefer to do this through a Python script. In which case, please do the following.
+The above interface is good for exploring the sample, but users wishing to download images for several sources may prefer to do this through a Python script. In which case, please do the following.
 
 1. ```cd``` into your chosen working directory
 2. Type ```git init```
