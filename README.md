@@ -8,8 +8,9 @@ This sample is a collation of the brightest radio-sources across the southern sk
 * Paper I details how the sample and catalogue were constructed -- https://arxiv.org/abs/tbc1
 * Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/tbc2
 
-A copy of the G4Jy catalogue will be submitted to VizieR but, in the meantime, you can find a copy here: \
+The value-added G4Jy catalogue will be submitted to VizieR but, in the meantime, you can find a copy here: \
 https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits
+
 
 
 
