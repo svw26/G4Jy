@@ -10,3 +10,28 @@ Once the paper is accepted, I will provide:
 * A python script to aid the download of cutouts/overlays from the server
 
 Stay tuned.
+
+## The G4Jy Sample Server
+
+A server for distributing the overlays, and component cutouts, for the G4Jy Sample:
+http://mwa-web.icrar.org/gleam_4jy/q/form
+
+The above interface is good for exploration of the sample, but users wishing to download images for multiple sources may wish to do this through a Python script. Please do the following:
+
+1. 'cd' into your chosen working directory
++ put the attached Python script, and your input file, there
++ type 'git init'
++ type 'git pull https://github.com/ICRAR/gleamvo-client'
++ run the Python script like so:
+
+```
+python basic_G4Jy_download.py --input_source_list=demo_input_file.txt --search_radius=1.0 --output_dir=demo_downloads
+```
+
+Overlays, and the component .fits images from which they are made, will then be downloaded to the specified output-directory.
+ 
+
+
+  
+
+
