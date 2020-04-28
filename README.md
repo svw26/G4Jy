@@ -19,18 +19,18 @@ https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits
 A server for distributing the overlays, and component cutouts, for the G4Jy Sample can be found here: \
 http://mwa-web.icrar.org/gleam_4jy/q/form
 
-The above interface is good for exploring the sample, but users wishing to download images for several sources may prefer to do this through a Python script. In which case, please do the following.
+The above interface is good for exploring the sample, but users wishing to download images for several sources may prefer to do this through a Python script. In which case, please try the following.
 
 1. ```cd``` into your chosen working directory
 2. Type ```git init```
 3. Type ```git pull https://github.com/ICRAR/gleamvo-client```
 4. Download the Python script:
 ```
-wget https://raw.githubusercontent.com/svw/G4Jy/master/server/basic_G4Jy_download.py
+wget https://raw.githubusercontent.com/svw26/G4Jy/master/server/basic_G4Jy_download.py
 ```
 5. Download the demo input-file: 
 ```
-wget https://raw.githubusercontent.com/svw/G4Jy/master/server/demo_input_file.txt
+wget https://raw.githubusercontent.com/svw26/G4Jy/master/server/demo_input_file.txt
 ```
 6. Run the Python script like so, where the search radius is in units of arcmin:
 ```
