@@ -48,7 +48,7 @@ As an astrophysicist concerned about the climate crisis, I have both hosted and 
 
 Finally, feel free to use the conference poster made available here: \
 https://github.com/svw26/G4Jy/tree/master/poster/SarahWhite_G4Jy_portrait_poster.pdf
-
+(The font size has been chosen so that the poster works equally well for A0 to A4 paper sizes.)
 
 
  
