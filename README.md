@@ -2,11 +2,11 @@
 
 This is a repository for things related to the GLEAM 4-Jy (G4Jy) Sample.
 
-This sample is a collation of the brightest radio-sources across the southern sky (Dec. < 30 deg), which have an integrated flux-density > 4 Jy at 151 MHz (as measured in the GLEAM extragalactic catalogue, see https://arxiv.org/abs/1610.08318). The vast majority of these sources are active galactic nuclei (AGN) with powerful radio-jets, although the sample is also known to contain two nearby, star-forming galaxies, a cluster relic, a halo, and the Flame Nebula. The Orion Nebula is excluded for the GLEAM catalogue, and thus the G4Jy Sample, but we provide new low-frequency flux-density measurements for this object in Appendix A of Paper I.
+This sample is a compilation of the brightest radio-sources across the southern sky (Dec. < 30 deg), which have an integrated flux-density > 4 Jy at 151 MHz (as measured in the GLEAM extragalactic catalogue, see https://arxiv.org/abs/1610.08318). The vast majority of these sources are active galactic nuclei (AGN) with powerful radio-jets, although the sample is also known to contain two nearby, star-forming galaxies, a cluster relic, a halo, and the Flame Nebula. The Orion Nebula is excluded for the GLEAM catalogue, and thus the G4Jy Sample, but we provide new low-frequency flux-density measurements for this object in Appendix A of Paper I.
 
 * For an overview of the sample, see https://arxiv.org/abs/1810.01226
-* Paper I details how the sample and catalogue were constructed -- https://arxiv.org/abs/tbc1 -- with supplementary material for Appendix F available here: https://github.com/svw26/G4Jy/tree/master/G4Jy_PaperI_AppendixF
-* Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/tbc2 
+* Paper I details how the sample and catalogue were constructed -- https://arxiv.org/abs/2004.13125 -- with supplementary material for Appendix F available here: https://github.com/svw26/G4Jy/tree/master/G4Jy_PaperI_AppendixF
+* Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/2004.13025 
 
 Given the length of Papers I and II, please consider the environment and save trees by not printing... :innocent:
 
@@ -47,8 +47,8 @@ For your ease (given the required formatting), also provided within https://gith
 As an astrophysicist concerned about the climate crisis, I have both hosted and delivered numerous online talks, resulting in a reduced carbon footprint. Please email (sarahwhite.astro@gmail.com) if you would like me to give a talk on the G4Jy Sample for your institution, either remotely or the next time I am in your part of the world. :earth_americas::earth_africa::earth_asia:
 
 Finally, feel free to use the conference poster made available here: \
-https://github.com/svw26/G4Jy/tree/master/poster/SarahWhite_G4Jy_portrait_poster.pdf
-
+https://github.com/svw26/G4Jy/tree/master/poster/SarahWhite_G4Jy_portrait_poster.pdf \
+(The font size has been chosen so that the poster works equally well for A0 to A4 paper sizes.)
 
 
  
