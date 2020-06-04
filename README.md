@@ -10,8 +10,10 @@ This sample is a compilation of the brightest radio-sources across the southern 
 
 Given the length of Papers I and II, please consider the environment and save trees by not printing... :innocent:
 
-The value-added G4Jy catalogue will be submitted to VizieR but, in the meantime, you can find a copy here: \
-https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits
+The value-added G4Jy catalogue can be found here: \
+https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits \
+and is also available at CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) \
+or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?VIII/105 on VizieR. 
 
 
 ## The G4Jy Sample Server
