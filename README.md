@@ -8,7 +8,9 @@ This sample is a compilation of the brightest radio-sources across the southern 
 * Paper I details how the sample and catalogue were constructed -- https://arxiv.org/abs/2004.13125 -- with supplementary material for Appendix F available here: https://github.com/svw26/G4Jy/tree/master/G4Jy_PaperI_AppendixF
 * Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/2004.13025 
 
-Given the length of Papers I and II, please consider the environment and save trees by not printing... :innocent:
+As Papers I and II were completed in conjunction with one another, please cite both when referring to the G4Jy Sample (White et al., 2020a, 2020b). 
+
+Furthermore, given the length of these papers, please consider the environment and save trees by not printing... :innocent:
 
 The value-added G4Jy catalogue can be found here: \
 https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits \
