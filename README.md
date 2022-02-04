@@ -51,7 +51,7 @@ For your ease (given the required formatting), also provided within https://gith
 As an astrophysicist concerned about the climate crisis, I have both hosted and delivered numerous online talks, resulting in a reduced carbon footprint. Please email (sarahwhite.astro@gmail.com) if you would like me to give a talk on the G4Jy Sample for your institution, either remotely or the next time I am in your part of the world. :earth_americas::earth_africa::earth_asia:
 
 Finally, feel free to use the conference poster made available here: \
-https://github.com/svw26/G4Jy/tree/master/poster/SarahWhite_G4Jy_portrait_poster.pdf \
+https://github.com/svw26/G4Jy/tree/master/posters/SarahWhite_G4Jy_portrait_poster.pdf \
 (The font size has been chosen so that the poster works equally well for A0 to A4 paper sizes.)
 
 
