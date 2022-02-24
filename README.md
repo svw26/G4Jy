@@ -17,8 +17,21 @@ https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits
 and is also available at CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) \
 or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?VIII/105 on VizieR. 
 
+## Overlays and cutouts for the G4Jy Sample
+
+Please see the Zenodo repository, https://zenodo.org/communities/g4jy ,
+for the following images associated with White et al. (2020a, 2020b), each being per GLEAM component:
+* 10-arcmin across overlays
+* 1-deg across overlays
+* GLEAM cutouts
+* TGSS cutouts
+* NVSS/SUMSS cutouts
+
+The above cutouts were downloaded via SkyView (https://skyview.gsfc.nasa.gov/current/cgi/query.pl), which can also be used to download the WISE images that were used for the two sets of G4Jy overlays.
 
 ## The G4Jy Sample Server
+
+[24/02/2022 -- This is being migrated to a new server, at Astronomy Data Central, and is currently unavailable at the webpage below.]
 
 A server for distributing the overlays, and component cutouts, for the G4Jy Sample can be found here: \
 http://mwa-web.icrar.org/gleam_4jy/q/form
