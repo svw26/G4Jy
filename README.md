@@ -29,6 +29,11 @@ for the following images associated with White et al. (2020a, 2020b), each being
 
 The above cutouts were downloaded via SkyView (https://skyview.gsfc.nasa.gov/current/cgi/query.pl), which can also be used to download the WISE images that were used for the two sets of G4Jy overlays.
 
+In addition, the Zenodo repository contains the following images from MeerKAT follow-up of G4Jy sources, described by Sejake et al. (2023; https://arxiv.org/abs/2211.12242):
+* 10-arcmin across overlays, including MeerKAT contours
+* In-band spectral-index maps (at 1.3 GHz) 
+
+
 ## The G4Jy Sample Server
 
 [24/02/2022 -- This is being migrated to a new server, at Astronomy Data Central, and is currently unavailable at the webpage below.]
