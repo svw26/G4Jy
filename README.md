@@ -1,6 +1,6 @@
 # G4Jy
 
-This is a repository for things related to the GLEAM 4-Jy (G4Jy) Sample, with G4Jy names (https://cds.unistra.fr/cgi-bin/Dic-Simbad?/5974354) being fully-resolvable in the NASA Extragalactic Database! :tada: 
+This is a repository for things related to the GLEAM 4-Jy (G4Jy) Sample, with G4Jy names (https://cds.unistra.fr/cgi-bin/Dic-Simbad?/5974354) being fully-resolvable in the NASA/IPAC Extragalactic Database! :tada: 
 
 This sample is a compilation of the brightest radio-sources across the southern sky (Dec. < 30 deg), which have an integrated flux-density > 4 Jy at 151 MHz (as measured in the GLEAM extragalactic catalogue, see https://arxiv.org/abs/1610.08318). The vast majority of these sources are active galactic nuclei (AGN) with powerful radio-jets, although the sample is also known to contain two nearby, star-forming galaxies, a cluster relic, a halo, and the Flame Nebula. The Orion Nebula is excluded for the GLEAM catalogue, and thus the G4Jy Sample, but we provide new low-frequency flux-density measurements for this object in Appendix A of Paper I.
 
