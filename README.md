@@ -53,9 +53,9 @@ A record of the multiwavelength follow-up of the G4Jy Sample can be found below:
 * X-ray observations from the Neil Gehrels Swift Observatory, Massaro et al. (2023), https://ui.adsabs.harvard.edu/abs/2023ApJS..268...32M/abstract
 * Optical spectroscopy for the G4Jy-3CRE subset, Garcia-Perez et al. (2024), https://ui.adsabs.harvard.edu/abs/2024ApJS..271....8G/abstract
 * X-ray observations from the Neil Gehrels Swift Observatory, Maselli et al. (2024), https://ui.adsabs.harvard.edu/abs/2024ApJS..274...17M/abstract
-* Optical spectroscopy from the South African Large Telescope (SALT), White et al. (submitted)
-* Optical spectroscopy from SALT (Data Release 2), Sejake et al. (in prep.)
-* Optical spectroscopy from SALT (Data Release 3), Sejake et al. (processed)
+* Optical spectroscopy from the Southern African Large Telescope (SALT), White et al. (submitted)
+* SALT Data Release 2, Sejake et al. (in prep.)
+* SALT Data Release 3, Sejake et al. (processed)
 
  
 
