@@ -48,7 +48,7 @@ https://github.com/svw26/G4Jy/tree/master/posters/SarahWhite_G4Jy_portrait_poste
 A record of the multiwavelength follow-up of the G4Jy Sample can be found below:
 
 * X-ray observations from the Neil Gehrels Swift Observatory, Maselli et al. (2022), https://ui.adsabs.harvard.edu/abs/2022ApJS..262...51M/abstract
-* MeerKAT, 1.3 GHz, Sejake et al. (2023), https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.4290S/abstract
+* MeerKAT observations at 1.3 GHz, Sejake et al. (2023), https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.4290S/abstract
 * Optical magnitudes for the G4Jy-3CRE subset, Massaro et al. (2023), https://ui.adsabs.harvard.edu/abs/2023ApJS..265...32M/abstract
 * X-ray observations from the Neil Gehrels Swift Observatory, Massaro et al. (2023), https://ui.adsabs.harvard.edu/abs/2023ApJS..268...32M/abstract
 * Optical spectroscopy for the G4Jy-3CRE subset, Garcia-Perez et al. (2024), https://ui.adsabs.harvard.edu/abs/2024ApJS..271....8G/abstract
