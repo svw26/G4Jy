@@ -16,7 +16,7 @@ This sample is a compilation of the brightest radio-sources across the southern 
 
 Furthermore, given the length of these papers, please consider the environment and save trees by not printing... :innocent:
 
-The value-added G4Jy catalogue can be found here: \
+The original value-added G4Jy catalogue can be found here: \
 https://github.com/svw26/G4Jy/tree/master/catalogue/G4Jy_catalogue_18012020.fits \
 and is also available at CDS via anonymous ftp to cdsarc.u-strasbg.fr (130.79.128.5) \
 or via http://cdsarc.u-strasbg.fr/viz-bin/qcat?VIII/105 on VizieR. 
