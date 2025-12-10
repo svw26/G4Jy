@@ -1,14 +1,17 @@
 # G4Jy
 
-This is a repository for things related to the GLEAM 4-Jy (G4Jy) Sample, with G4Jy names (https://cds.unistra.fr/cgi-bin/Dic-Simbad?/5974354) being fully-resolvable in the NASA/IPAC Extragalactic Database! :tada: 
+This is a repository for things related to the GLEAM 4-Jy (G4Jy) Sample, with G4Jy names (https://cds.unistra.fr/cgi-bin/Dic-Simbad?/6054721) being fully-resolvable in the NASA/IPAC Extragalactic Database! :tada: 
 
 This sample is a compilation of the brightest radio-sources across the southern sky (Dec. < 30 deg), which have an integrated flux-density > 4 Jy at 151 MHz (as measured in the GLEAM extragalactic catalogue, see https://arxiv.org/abs/1610.08318). The vast majority of these sources are active galactic nuclei (AGN) with powerful radio-jets, although the sample is also known to contain two nearby, star-forming galaxies, a cluster relic, a halo, and the Flame Nebula. The Orion Nebula is excluded for the GLEAM catalogue, and thus the G4Jy Sample, but we provide new low-frequency flux-density measurements for this object in Appendix A of Paper I.
 
 * For an overview of the sample, see https://arxiv.org/abs/1810.01226
 * Paper I details how the sample and catalogue were constructed -- https://arxiv.org/abs/2004.13125 -- with supplementary material for Appendix F available here: https://github.com/svw26/G4Jy/tree/master/G4Jy_PaperI_AppendixF
-* Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/2004.13025 
+* Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/2004.13025
+* Paper III carefully curates redshifts for 64% of the sample -- http://arxiv.org/abs/2512.06947
+* Paper IV presents multiwavelength analysis of the sample -- http://arxiv.org/abs/2512.08008 
 
 :sparkles::sparkles: **As Papers I and II were completed in conjunction with one another, please cite _both_ when referring to the G4Jy Sample (White et al., 2020a, 2020b).** :sparkles::sparkles: 
+:sparkles::sparkles: **Similarly, Papers III and IV were completed in conjunction with one another, so please cite _both_ when referring to the updated G4Jy catalogue (White et al., 2025c, 2025d).** :sparkles::sparkles: 
 
 Furthermore, given the length of these papers, please consider the environment and save trees by not printing... :innocent:
 
@@ -55,7 +58,6 @@ A record of the multiwavelength follow-up of the G4Jy Sample can be found below:
 * X-ray observations from the Neil Gehrels Swift Observatory, Maselli et al. (2024), https://ui.adsabs.harvard.edu/abs/2024ApJS..274...17M/abstract
 * Optical spectroscopy from the Southern African Large Telescope (SALT), White et al. (2025), https://ui.adsabs.harvard.edu/abs/2025arXiv250513619W/abstract
 * G4Jy-SALT Data Release 2, Sejake et al. (in prep.)
-* G4Jy-SALT Data Release 3, Sejake et al. (processed)
 
  
 
