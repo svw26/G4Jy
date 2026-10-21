@@ -8,11 +8,12 @@ This sample is a compilation of the brightest radio-sources across the southern 
 * Paper I details how the sample and catalogue were constructed -- https://arxiv.org/abs/2004.13125 -- with supplementary material for Appendix F available here: https://github.com/svw26/G4Jy/tree/master/G4Jy_PaperI_AppendixF
 * Paper II provides details of cross-identification for the sample -- https://arxiv.org/abs/2004.13025
 * Paper III carefully curates redshifts for 64% of the sample -- http://arxiv.org/abs/2512.06947
-* Paper IV presents multiwavelength analysis of the sample -- http://arxiv.org/abs/2512.08008 
+* Paper IV presents multiwavelength analysis of the sample -- http://arxiv.org/abs/2512.08008
+* Paper V presents broadband spectral analysis for the sample -- https://arxiv.org/abs/2610.27171
 
 :sparkles::sparkles: **As Papers I and II were completed in conjunction with one another, please cite _both_ when referring to the G4Jy Sample (White et al., 2020a, 2020b).** :sparkles::sparkles:
 
-:sparkles::sparkles: **Similarly, Papers III and IV were completed in conjunction with one another, so please cite _both_ when referring to the updated G4Jy catalogue (White et al., 2025c, 2025d).** :sparkles::sparkles: 
+:sparkles::sparkles: **Similarly, Papers III and IV were completed in conjunction with one another, so please cite _both_ when referring to the updated G4Jy catalogue (White et al., 2026a, 2026b).** :sparkles::sparkles: 
 
 Furthermore, given the length of these papers, please consider the environment and save trees by not printing... :innocent:
 
